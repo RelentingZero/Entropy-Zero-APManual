@@ -1,0 +1,126 @@
+[
+  {
+    "count": 1,
+    "name": "Dead Tenant",
+    "category": [
+      "Chapter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Low",
+    "category": [
+      "Chapter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bad Cop",
+    "category": [
+      "Chapter",
+      "Goal"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Stunstick",
+    "category": [
+      "Early Weapon",
+      "Weapon"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Pistol",
+    "category": [
+      "Early Weapon",
+      "Weapon"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "SMG",
+    "category": [
+      "Mid Game Weapon",
+      "Weapon"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "AR3",
+    "category": [
+      "Late Weapon",
+      "Weapon"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Shotgun",
+    "category": [
+      "Mid Game Weapon",
+      "Weapon"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Grenades",
+    "category": [
+      "Mid Game Weapon",
+      "Weapon"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Manhacks",
+    "category": [
+      "Weapon",
+      "Early Weapon"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Gravity Gun",
+    "category": [
+      "Weapon",
+      "Mid Game Weapon"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "RPG",
+    "category": [
+      "Weapon",
+      "Late Weapon"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Crossbow",
+    "category": [
+      "Weapon",
+      "Late Weapon"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Interloper (EZ)",
+    "category": [
+      "Chaper",
+      "Starting Level"
+    ],
+    "progression": true
+  }
+]

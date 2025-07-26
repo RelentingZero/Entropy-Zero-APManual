@@ -1,0 +1,787 @@
+[
+  {
+    "name": "(I) Cleared Out Rebel Hideout",
+    "region": "Interloper (EZ)",
+    "category": [
+      "Interloper (EZ)"
+    ],
+    "requires": "|Interloper (EZ)|"
+  },
+  {
+    "name": "(I) Razor Train Sabotaged By Rebels",
+    "region": "Interloper (EZ)",
+    "category": [
+      "Interloper (EZ)"
+    ],
+    "requires": "|Interloper (EZ)| AND"
+  },
+  {
+    "name": "(I) Stunstick Pickup",
+    "region": "Interloper (EZ)",
+    "category": [
+      "Interloper (EZ)"
+    ],
+    "requires": "|Interloper (EZ)|"
+  },
+  {
+    "name": "(I) Lambda Generation Cache 1",
+    "region": "Interloper (EZ)",
+    "category": [
+      "Interloper (EZ)"
+    ],
+    "requires": "|Interloper (EZ)|"
+  },
+  {
+    "name": "(I) Hula Doll 1",
+    "region": "Interloper (EZ)",
+    "category": [
+      "Interloper (EZ)"
+    ],
+    "requires": "|Interloper (EZ)|"
+  },
+  {
+    "name": "(I) Solved Battery Puzzle",
+    "region": "Interloper (EZ)",
+    "category": [
+      "Interloper (EZ)"
+    ],
+    "requires": "|Interloper (EZ)|"
+  },
+  {
+    "name": "(I) Survived Explosive Barrel Ambush",
+    "region": "Interloper (EZ)",
+    "category": [
+      "Interloper (EZ)"
+    ],
+    "requires": "|Interloper (EZ)|"
+  },
+  {
+    "name": "(I) Manhack Pickups",
+    "region": "Interloper (EZ)",
+    "category": [
+      "Interloper (EZ)"
+    ],
+    "requires": "|Interloper (EZ)|"
+  },
+  {
+    "name": "(I) Put Can In Trashcan",
+    "region": "Interloper (EZ)",
+    "category": [
+      "Interloper (EZ)"
+    ],
+    "requires": "|Interloper (EZ)|"
+  },
+  {
+    "name": "(I) First Combine Outpost Suit Charger 1",
+    "region": "Interloper (EZ)",
+    "category": [
+      "Interloper (EZ)"
+    ],
+    "requires": "|Interloper (EZ)|"
+  },
+  {
+    "name": "(I) First Combine Outpost Health Station 1",
+    "region": "Interloper (EZ)",
+    "category": [
+      "Interloper (EZ)"
+    ],
+    "requires": "|Interloper (EZ)|"
+  },
+  {
+    "name": "(I) First Combine Outpost Suit Charger 2",
+    "region": "Interloper (EZ)",
+    "category": [
+      "Interloper (EZ)"
+    ],
+    "requires": "|Interloper (EZ)|"
+  },
+  {
+    "name": "(I) First Combine Outpost Suit Charger 2",
+    "region": "Interloper (EZ)",
+    "category": [
+      "Interloper (EZ)"
+    ],
+    "requires": "|Interloper (EZ)|"
+  },
+  {
+    "name": "(I) Broken Vaccination Station Suit Charger",
+    "region": "Interloper (EZ)",
+    "category": [
+      "Interloper (EZ)"
+    ],
+    "requires": "|Interloper (EZ)|"
+  },
+  {
+    "name": "(I) Broken Vaccination Station Health Station",
+    "region": "Interloper (EZ)",
+    "category": [
+      "Interloper (EZ)"
+    ],
+    "requires": "|Interloper (EZ)|"
+  },
+  {
+    "name": "(I) Opened City 10 Gates",
+    "region": "Interloper (EZ)",
+    "category": [
+      "Interloper (EZ)"
+    ],
+    "requires": "|Interloper (EZ)|"
+  },
+  {
+    "name": "(I) Hula Girl 2",
+    "region": "Interloper (EZ)",
+    "category": [
+      "Interloper (EZ)"
+    ],
+    "requires": "|Interloper (EZ)|"
+  },
+  {
+    "name": "(I) Lambda Generation Cache 2",
+    "region": "Interloper (EZ)",
+    "category": [
+      "Interloper (EZ)"
+    ],
+    "requires": "|Interloper (EZ)|"
+  },
+  {
+    "name": "(I) Hula Girl 3",
+    "region": "Interloper (EZ)",
+    "category": [
+      "Interloper (EZ)"
+    ],
+    "requires": "|Interloper (EZ)|"
+  },
+  {
+    "name": "(I) Survived Rebel Standoff",
+    "region": "Interloper (EZ)",
+    "category": [
+      "Interloper (EZ)"
+    ],
+    "requires": "|Interloper (EZ)|"
+  },
+  {
+    "name": "(I) Solved Strider \"Puzzle\"",
+    "region": "Interloper (EZ)",
+    "category": [
+      "Interloper (EZ)"
+    ],
+    "requires": "|Interloper (EZ)|"
+  },
+  {
+    "name": "(I) Lambda Generation Cache 3",
+    "region": "Interloper (EZ)",
+    "category": [
+      "Interloper (EZ)"
+    ],
+    "requires": "|Interloper (EZ)|"
+  },
+  {
+    "name": "(I) Grenade Pickup",
+    "region": "Interloper (EZ)",
+    "category": [
+      "Interloper (EZ)"
+    ],
+    "requires": "|Interloper (EZ)|"
+  },
+  {
+    "name": "(I) Entered Dead Tenant",
+    "region": "Interloper (EZ)",
+    "category": [
+      "Interloper (EZ)"
+    ],
+    "requires": "|Interloper (EZ)|"
+  },
+  {
+    "name": "(DT) Snuck Into Turret Hub Without Alerting The Rebels",
+    "region": "Dead Tenant",
+    "category": [
+      "Dead Tenant"
+    ],
+    "requires": "|Dead Tenant|"
+  },
+  {
+    "name": "(DT) Lambda Generation Cache 4",
+    "region": "Dead Tenant",
+    "category": [
+      "Dead Tenant"
+    ],
+    "requires": "|Dead Tenant|"
+  },
+  {
+    "name": "(DT) Shotgun Pickup",
+    "region": "Dead Tenant",
+    "category": [
+      "Dead Tenant"
+    ],
+    "requires": "|Dead Tenant|"
+  },
+  {
+    "name": "(DT) Reprogrammed Turrets",
+    "region": "Dead Tenant",
+    "category": [
+      "Dead Tenant"
+    ],
+    "requires": "|Dead Tenant|"
+  },
+  {
+    "name": "(DT) Hula Girl 4",
+    "region": "Dead Tenant",
+    "category": [
+      "Dead Tenant"
+    ],
+    "requires": "|Dead Tenant|"
+  },
+  {
+    "name": "(DT) Cleared Out Gun Nest",
+    "region": "Dead Tenant",
+    "category": [
+      "Dead Tenant"
+    ],
+    "requires": "|Dead Tenant|"
+  },
+  {
+    "name": "(DT) Violate The Geneva Convention",
+    "region": "Dead Tenant",
+    "category": [
+      "Dead Tenant"
+    ],
+    "requires": "|Dead Tenant|"
+  },
+  {
+    "name": "(DT) Hula Girl 5",
+    "region": "Dead Tenant",
+    "category": [
+      "Dead Tenant"
+    ],
+    "requires": "|Dead Tenant|"
+  },
+  {
+    "name": "(DT) Lambda Generation Cache 5",
+    "region": "Dead Tenant",
+    "category": [
+      "Dead Tenant"
+    ],
+    "requires": "|Dead Tenant|"
+  },
+  {
+    "name": "(DT) Depowered Third Floor Lock",
+    "region": "Dead Tenant",
+    "category": [
+      "Dead Tenant"
+    ],
+    "requires": "|Dead Tenant|"
+  },
+  {
+    "name": "(DT) Third Floor Weapon Storage",
+    "region": "Dead Tenant",
+    "category": [
+      "Dead Tenant"
+    ],
+    "requires": "|Dead Tenant|"
+  },
+  {
+    "name": "(DT) Returned The Dollie",
+    "region": "Dead Tenant",
+    "category": [
+      "Dead Tenant"
+    ],
+    "requires": "|Dead Tenant|"
+  },
+  {
+    "name": "(DT) Learned The Truth About City 10's Supplys",
+    "region": "Dead Tenant",
+    "category": [
+      "Dead Tenant"
+    ],
+    "requires": "|Dead Tenant|"
+  },
+  {
+    "name": "(DT) Free The Trapped Metro Cop",
+    "region": "Dead Tenant",
+    "category": [
+      "Dead Tenant"
+    ],
+    "requires": "|Dead Tenant|"
+  },
+  {
+    "name": "(DT) Betrayed By Barney",
+    "region": "Dead Tenant",
+    "category": [
+      "Dead Tenant"
+    ],
+    "requires": "|Dead Tenant|"
+  },
+  {
+    "name": "(DT) Get Thrown into The Underground",
+    "region": "Dead Tenant",
+    "category": [
+      "Dead Tenant"
+    ],
+    "requires": "|Dead Tenant|"
+  },
+  {
+    "name": "(L) Suit Charger Near Lambda Generation Cache ",
+    "region": "Low",
+    "category": [
+      "Low"
+    ],
+    "requires": "|Low|"
+  },
+  {
+    "name": "(L) AR3 Pickup",
+    "region": "Low",
+    "category": [
+      "Low"
+    ],
+    "requires": "|Low|"
+  },
+  {
+    "name": "(L) Stunstick Pickup",
+    "region": "Low",
+    "category": [
+      "Low"
+    ],
+    "requires": "|Low|"
+  },
+  {
+    "name": "(L) Pistol Pickup",
+    "region": "Low",
+    "category": [
+      "Low"
+    ],
+    "requires": "|Low|"
+  },
+  {
+    "name": "(L) Abandoned Combine Outpost Suit Charger",
+    "region": "Low",
+    "category": [
+      "Low"
+    ],
+    "requires": "|Low|"
+  },
+  {
+    "name": "(L) Abandoned Combine Outpost Health Station",
+    "region": "Low",
+    "category": [
+      "Low"
+    ],
+    "requires": "|Low|"
+  },
+  {
+    "name": "(L) Played Grenade Hot Potato",
+    "region": "Low",
+    "category": [
+      "Low"
+    ],
+    "requires": "|Low|"
+  },
+  {
+    "name": "(L) Secret Shotgun Pickup",
+    "region": "Low",
+    "category": [
+      "Low"
+    ],
+    "requires": "|Low|"
+  },
+  {
+    "name": "(L) Solved Crank Puzzle",
+    "region": "Low",
+    "category": [
+      "Low"
+    ],
+    "requires": "|Low|"
+  },
+  {
+    "name": "(L) Opened Abandoned Combine Outpost",
+    "region": "Low",
+    "category": [
+      "Low"
+    ],
+    "requires": "|Low|"
+  },
+  {
+    "name": "(L) Hula Girl 6",
+    "region": "Low",
+    "category": [
+      "Low"
+    ],
+    "requires": "|Low|"
+  },
+  {
+    "name": "(L) SMG Under Stairs",
+    "region": "Low",
+    "category": [
+      "Low"
+    ],
+    "requires": "|Low|"
+  },
+  {
+    "name": "(L) Standoff Location Health Station",
+    "region": "Low",
+    "category": [
+      "Low"
+    ],
+    "requires": "|Low|"
+  },
+  {
+    "name": "(L) Survived Zombie Standoff",
+    "region": "Low",
+    "category": [
+      "Low"
+    ],
+    "requires": "|Low|"
+  },
+  {
+    "name": "(L) NVG Temporarily Disabled",
+    "region": "Low",
+    "category": [
+      "Low"
+    ],
+    "requires": "|Low|"
+  },
+  {
+    "name": "(L) Health Station Before Stalker Escort",
+    "region": "Low",
+    "category": [
+      "Low"
+    ],
+    "requires": "|Low|"
+  },
+  {
+    "name": "(L) Suit Charger Before Stalker Escort",
+    "region": "Low",
+    "category": [
+      "Low"
+    ],
+    "requires": "|Low|"
+  },
+  {
+    "name": "(L) Health Station Before Storage Area 9",
+    "region": "Low",
+    "category": [
+      "Low"
+    ],
+    "requires": "|Low|"
+  },
+  {
+    "name": "(L) Escorted Stalker To Elevator",
+    "region": "Low",
+    "category": [
+      "Low"
+    ],
+    "requires": "|Low|"
+  },
+  {
+    "name": "(L) Lambda Generation Cache 7",
+    "region": "Low",
+    "category": [
+      "Low"
+    ],
+    "requires": "|Low|"
+  },
+  {
+    "name": "(L) Lambda Generation Cache 6",
+    "region": "Low",
+    "category": [
+      "Low"
+    ],
+    "requires": "|Low|"
+  },
+  {
+    "name": "(L) Health Station After NVG Restored",
+    "region": "Low",
+    "category": [
+      "Low"
+    ],
+    "requires": "|Low|"
+  },
+  {
+    "name": "(L) Escorted The Stalker All The Way To The Train Station",
+    "region": "Low",
+    "category": [
+      "Low"
+    ],
+    "requires": "|Low|"
+  },
+  {
+    "name": "(L) Kill The Stalker",
+    "region": "Low",
+    "category": [
+      "Low"
+    ],
+    "requires": "|Low|"
+  },
+  {
+    "name": "(L) Ride The Bullet Train To Installation 10",
+    "region": "Low",
+    "category": [
+      "Low"
+    ],
+    "requires": "|Low|"
+  },
+  {
+    "name": "(L) Health Station Before Entering Installation 10",
+    "region": "Low",
+    "category": [
+      "Low"
+    ],
+    "requires": "|Low|"
+  },
+  {
+    "name": "(L) Enter Installation 10",
+    "region": "Low",
+    "category": [
+      "Low"
+    ],
+    "requires": "|Low|"
+  },
+  {
+    "name": "(BC) Soved Energy Ball Puzzle",
+    "region": "Bad Cop",
+    "category": [
+      "Bad Cop"
+    ],
+    "requires": "|Bad Cop|"
+  },
+  {
+    "name": "(BC) Find Out You've Contracted The C-Flu",
+    "region": "Bad Cop",
+    "category": [
+      "Bad Cop"
+    ],
+    "requires": "|Bad Cop|"
+  },
+  {
+    "name": "(BC) C-Flu Vaccination Station 1 Health Station",
+    "region": "Bad Cop",
+    "category": [
+      "Bad Cop"
+    ],
+    "requires": "|Bad Cop|"
+  },
+  {
+    "name": "(BC) C-Flu Vaccination Station 2 Health Station",
+    "region": "Bad Cop",
+    "category": [
+      "Bad Cop"
+    ],
+    "requires": "|Bad Cop|"
+  },
+  {
+    "name": "(BC) Enter Quarantine Access",
+    "region": "Bad Cop",
+    "category": [
+      "Bad Cop"
+    ],
+    "requires": "|Bad Cop|"
+  },
+  {
+    "name": "(BC) Vortigaunt Arena Health Station",
+    "region": "Bad Cop",
+    "category": [
+      "Bad Cop"
+    ],
+    "requires": "|Bad Cop|"
+  },
+  {
+    "name": "(BC) Vortigaunt Arena Suit Charger",
+    "region": "Bad Cop",
+    "category": [
+      "Bad Cop"
+    ],
+    "requires": "|Bad Cop|"
+  },
+  {
+    "name": "(BC) Survived Vortigaunt Ambush",
+    "region": "Bad Cop",
+    "category": [
+      "Bad Cop"
+    ],
+    "requires": "|Bad Cop|"
+  },
+  {
+    "name": "(BC) Vortigaunt Conversation Room Health Station",
+    "region": "Bad Cop",
+    "category": [
+      "Bad Cop"
+    ],
+    "requires": "|Bad Cop|"
+  },
+  {
+    "name": "(BC) Vortigaunt Conversation Room Suit Charger",
+    "region": "Bad Cop",
+    "category": [
+      "Bad Cop"
+    ],
+    "requires": "|Bad Cop|"
+  },
+  {
+    "name": "(BC) Solved Manhack Puzzle",
+    "region": "Bad Cop",
+    "category": [
+      "Bad Cop"
+    ],
+    "requires": "|Bad Cop|"
+  },
+  {
+    "name": "(BC) Health Station After Hunter Event",
+    "region": "Bad Cop",
+    "category": [
+      "Bad Cop"
+    ],
+    "requires": "|Bad Cop|"
+  },
+  {
+    "name": "(BC) Suit Charger After Hunter Event",
+    "region": "Bad Cop",
+    "category": [
+      "Bad Cop"
+    ],
+    "requires": "|Bad Cop|"
+  },
+  {
+    "name": "(BC) Health Station In Captured Rebels Room",
+    "region": "Bad Cop",
+    "category": [
+      "Bad Cop"
+    ],
+    "requires": "|Bad Cop|"
+  },
+  {
+    "name": "(BC) Health Station After Stalker Room",
+    "region": "Bad Cop",
+    "category": [
+      "Bad Cop"
+    ],
+    "requires": "|Bad Cop|"
+  },
+  {
+    "name": "(BC) Suit Charger After Stalker Room",
+    "region": "Bad Cop",
+    "category": [
+      "Bad Cop"
+    ],
+    "requires": "|Bad Cop|"
+  },
+  {
+    "name": "(BC) Solved Stalker Room Puzzle",
+    "region": "Bad Cop",
+    "category": [
+      "Bad Cop"
+    ],
+    "requires": "|Bad Cop|"
+  },
+  {
+    "name": "(BC) Survived First Hunter Fight",
+    "region": "Bad Cop",
+    "category": [
+      "Bad Cop"
+    ],
+    "requires": "|Bad Cop|"
+  },
+  {
+    "name": "(BC) Health Station After First Hunter Fight",
+    "region": "Bad Cop",
+    "category": [
+      "Bad Cop"
+    ],
+    "requires": "|Bad Cop|"
+  },
+  {
+    "name": "(BC) Suit Charger After First Hunter Fight",
+    "region": "Bad Cop",
+    "category": [
+      "Bad Cop"
+    ],
+    "requires": "|Bad Cop|"
+  },
+  {
+    "name": "(BC) Health Station Before Datastream Threading",
+    "region": "Bad Cop",
+    "category": [
+      "Bad Cop"
+    ],
+    "requires": "|Bad Cop|"
+  },
+  {
+    "name": "(BC) Suit Charger Before Datastream Threading",
+    "region": "Bad Cop",
+    "category": [
+      "Bad Cop"
+    ],
+    "requires": "|Bad Cop|"
+  },
+  {
+    "name": "(BC) Datastream Threading Health Station",
+    "region": "Bad Cop",
+    "category": [
+      "Bad Cop"
+    ],
+    "requires": "|Bad Cop|"
+  },
+  {
+    "region": "Bad Cop",
+    "name": "(BC) Datastream Threading Suit Charger",
+    "category": [
+      "Bad Cop"
+    ],
+    "requires": "|Bad Cop|"
+  },
+  {
+    "name": "(BC) Killed Corrupted Hunter",
+    "region": "Bad Cop",
+    "category": [
+      "Bad Cop"
+    ],
+    "requires": "|Bad Cop|"
+  },
+  {
+    "name": "(BC) Health Station Before Entropic Control",
+    "region": "Bad Cop",
+    "category": [
+      "Bad Cop"
+    ],
+    "requires": "|Bad Cop|"
+  },
+  {
+    "name": "(BC) Suit Charger Before Entropic Control",
+    "region": "Bad Cop",
+    "category": [
+      "Bad Cop"
+    ],
+    "requires": "|Bad Cop|"
+  },
+  {
+    "name": "(BC) Entropic Control Health Stations",
+    "region": "Bad Cop",
+    "category": [
+      "Bad Cop"
+    ],
+    "requires": "|Bad Cop|"
+  },
+  {
+    "name": "(BC) Entropic Control Suit Chargers",
+    "region": "Bad Cop",
+    "category": [
+      "Bad Cop"
+    ],
+    "requires": "|Bad Cop|"
+  },
+  {
+    "name": "(BC) Kill The Final Vortigaunt",
+    "region": "Bad Cop",
+    "category": [
+      "Bad Cop"
+    ],
+    "requires": "|Bad Cop|"
+  },
+  {
+    "name": "(BC) Get Promoted To Combine Elite",
+    "region": "Bad Cop",
+    "victory": true,
+    "category": [
+      "Bad Cop"
+    ],
+    "requires": "|Bad Cop|"
+  }
+]

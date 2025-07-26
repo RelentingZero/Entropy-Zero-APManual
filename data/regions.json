@@ -1,0 +1,23 @@
+{
+  "Interloper (EZ)": {
+    "starting": true,
+    "connects_to": [
+      "Dead Tenant",
+      "Low",
+      "Bad Cop"
+    ],
+    "requires": []
+  },
+  "Dead Tenant": {
+    "connects_to": [],
+    "requires": "|Dead Tenant| AND (|@Early Weapon:2|) AND (|@Mid Game Weapon:1) OR (|@Late Weapon:1|)"
+  },
+  "Low": {
+    "connects_to": [],
+    "requires": "|Low| AND (|@Early Weapon:2|) AND (|@Mid Game Weapon:2) OR (|@Late Weapon:1|)"
+  },
+  "Bad Cop": {
+    "connects_to": [],
+    "requires": "|Bad Cop| AND (|@Early Weapon:2|) AND (|@Mid Game Weapon:2) OR (|@Late Weapon:2|)"
+  }
+}
