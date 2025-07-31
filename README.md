@@ -1,4 +1,4 @@
-# *** THIS BUILD IS CURRENLY BROKEN DO NOT DOWNLOAD ***
+
 # Entropy-Zero-APManual
 A project to add Archipelago Manual support for Entropy: Zero
 # ***CHECKS***
